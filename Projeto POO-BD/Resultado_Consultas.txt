@@ -1,0 +1,3 @@
+Nome do Membro		Título do Livro		Data de Empréstimo	Data de Devolução
+---------------------------------------------------------------------------------------------
+Nenhum empréstimo encontrado para o cartão de membro: 583
